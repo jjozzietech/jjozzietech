@@ -1,6 +1,6 @@
 # // jjozzietech
 
-Enterprise homelab. Sydney rack. au-syd region.
+Enterprise lab. Sydney rack. au-syd region.
 
 I run an Akash Network GPU compute provider on a 22-node Kubernetes cluster
 and write about what actually breaks.
